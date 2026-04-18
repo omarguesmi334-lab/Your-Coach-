@@ -1,0 +1,12 @@
+{
+  "name": "Your Coach",
+  "description": "A comprehensive AI-powered fitness and nutrition coach with workout tracking, diet plans, and calorie analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-powered calorie analysis",
+    "Workout tracking",
+    "Nutrition planning"
+  ]
+}
